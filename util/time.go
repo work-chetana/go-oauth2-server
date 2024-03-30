@@ -4,6 +4,8 @@ import (
 	"time"
 )
 
+//TODO add tests to confirm servers UTC time
+
 // https://golang.org/pkg/time/#pkg-constants
 const (
 	// RFC3339Mili is a modification of RFC3339Nano to only include ms (3 decimal places)
